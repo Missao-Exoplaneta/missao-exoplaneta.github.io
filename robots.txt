@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /designsystem/
+
+Sitemap: https://missaoexoplaneta.com.br/sitemap.xml
