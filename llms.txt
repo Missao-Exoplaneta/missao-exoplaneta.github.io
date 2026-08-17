@@ -1,0 +1,15 @@
+# Missão Exoplaneta
+
+> A Missão Exoplaneta é um projeto de divulgação científica criado pela astrônoma amadora Julia Brazolim, focado em democratizar a astronomia e explorar mundos fora do Sistema Solar.
+
+Site: https://missaoexoplaneta.com.br
+
+Documentos importantes:
+- https://missaoexoplaneta.com.br/sobre/
+- https://missaoexoplaneta.com.br/episodios/
+
+Versão completa:
+https://missaoexoplaneta.com.br/llms-full.txt
+
+RSS:
+https://missaoexoplaneta.com.br/episodios/index.xml

@@ -1,0 +1,6 @@
+User-agent: *
+Content-Signal: ai-train=no, search=yes, ai-input=yes
+Allow: /
+Disallow: /designsystem/
+
+Sitemap: https://missaoexoplaneta.com.br/sitemap.xml
